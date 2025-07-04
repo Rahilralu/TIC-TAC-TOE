@@ -24,7 +24,7 @@
 
 •In the Pygame version:
 
-   •A window is created showing the 3x3 grid.
+   •A window is created showing the 3x3 grid
 
    •Players click on cells to place "X" or "O" — no typing anymore.
 
