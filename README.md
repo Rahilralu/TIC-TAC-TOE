@@ -9,5 +9,7 @@ This is a simple implementation of the classic Tic Tac Toe game built using **Py
 This web-based game is built using **HTML, CSS, and JavaScript**. It lets players play against a random computer choice. I used DOM manipulation and logic handling to update the scores and game status dynamically.
 
 💡 This repository is a growing collection of my learning journey. As I explore more technologies and frameworks, I will keep adding to this repo — from fun logic games to web tools.
+https://rahilralu.github.io/MINI-PROJECTS/ROCK-PAPER-SCISSOR/rock-paper-scissor.html
+
 
 Feel free to explore the folders and try out the projects!
