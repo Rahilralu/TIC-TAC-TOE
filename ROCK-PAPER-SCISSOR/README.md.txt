@@ -9,3 +9,5 @@ A simple and fun Rock Paper Scissors game built using **HTML**, **CSS**, and **J
 - Uses `localStorage` to remember score even after refreshing.
 - Simple and clean UI with emoji icons.
 - Reset score button to start over.
+
+https://rahilralu.github.io/MINI-PROJECTS/ROCK-PAPER-SCISSOR/rock-paper-scissor.html
